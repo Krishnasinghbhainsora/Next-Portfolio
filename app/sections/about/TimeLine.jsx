@@ -4,9 +4,9 @@ import { useEffect, useRef, useState } from "react";
 import { LazyMotion, domAnimation, useInView } from "framer-motion";
 
 const TimeLineData = [
-	{ year: 2024, text: "Start my journey as a React developer" },
-	{ year: 2023, text: "Dive completely into React.js" },
-	{ year: 2022, text: "Start a 3mo WordPress internship" }
+	{ year: 2024, text: "Start my journey as a Full Stack developer" },
+	{ year: 2023, text: "Dive completely into React.js and Node.js" },
+	{ year: 2022, text: "Start a 3mo Front-End Internship" }
 ];
 
 export function TimeLine() {

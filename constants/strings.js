@@ -1,5 +1,5 @@
 export const SITE_STRINGS = {
-	textLogo: "Portf	olio",
+	textLogo: "Portfolio",
 	backToMainPageTitle: "Back to main page",
 	goToMainPageTitle: "Go to main page",
 	backToMainText: "Back to main"

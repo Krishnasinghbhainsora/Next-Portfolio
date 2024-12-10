@@ -35,22 +35,10 @@ const projects = [
 		repoUrl: "https://github.com/example/repo1",
 		stack: ["React", "Express", "Node.js"]
 	},
+	
 	{
 		id: 3,
 		title: "Project 3",
-		description:
-			"I successfully designed and developed the official Zwolf Consultancy Services website, significantly enhancing the company’s online presence and user engagement. The website features a modern and intuitive interface, ensuring seamless navigation and an enjoyable user experience. Utilizing responsive design principles, I ensured optimal functionality across various devices, from desktops to mobile phones. The integration of vibrant visuals and informative content showcases the company’s services effectively, attracting potential clients and improving overall brand visibility. Additionally, I implemented SEO best practices to boost search engine rankings, contributing to increased traffic and visibility for the consultancy in a competitive market.",
-		images: [
-			"https://res.cloudinary.com/dq7ttfnfb/image/upload/v1729493953/ZCS_u1p8tk.png"
-		],
-		liveUrl: "https://www.zwolfconsultancyservice.com/",
-		repoUrl: "https://github.com/example/repo1",
-		stack: ["React"]
-	},
-	
-	{
-		id: 4,
-		title: "Project 4",
 		description:
 			"Currently building web applications using React , Node.js , Express , and Bootstrap . Actively developing RESTful APIs using Express for smooth data ﬂow between frontend and backend. Implemented ﬁlter functionality for users to search properties by location, price, and type. Managing dynamic state with React hooks and improving frontend functionality.",
 		images: [
@@ -59,6 +47,18 @@ const projects = [
 		liveUrl: "https://example.com/live2",
 		repoUrl: "https://github.com/example/repo2",
 		stack: ["React", "Express", "Node.js"]
+	},
+	{
+		id: 4,
+		title: "Project 4",
+		description:
+			"I successfully designed and developed the official Zwolf Consultancy Services website, significantly enhancing the company’s online presence and user engagement. The website features a modern and intuitive interface, ensuring seamless navigation and an enjoyable user experience. Utilizing responsive design principles, I ensured optimal functionality across various devices, from desktops to mobile phones. The integration of vibrant visuals and informative content showcases the company’s services effectively, attracting potential clients and improving overall brand visibility. Additionally, I implemented SEO best practices to boost search engine rankings, contributing to increased traffic and visibility for the consultancy in a competitive market.",
+		images: [
+			"https://res.cloudinary.com/dq7ttfnfb/image/upload/v1729493953/ZCS_u1p8tk.png"
+		],
+		liveUrl: "https://www.zwolfconsultancyservice.com/",
+		repoUrl: "https://github.com/example/repo1",
+		stack: ["React"]
 	},
 	
 ];
@@ -99,7 +99,7 @@ export function ProjectsSection() {
 							)}
 						</ErrorBoundary>
 					</Suspense>
-
+{/* 
 					<Link
 						href={SITE_ROUTES.projects}
 						tabIndex={-1}
@@ -113,7 +113,7 @@ export function ProjectsSection() {
 						}}
 					>
 						<button aria-label="See more projects">More projects</button>
-					</Link>
+					</Link> */}
 				</div>
 			</section>
 		</LazyMotion>

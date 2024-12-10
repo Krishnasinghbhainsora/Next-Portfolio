@@ -25,30 +25,38 @@ export function AboutSection() {
 						}}
 					>
 						<p>
-							My name is Krishna. I successfully graduated From Graphic Era University, computer
-							science faculty.
+							My name is Krishna. I hold a Master's degree in Computer Applications from Graphic Era University.
 						</p>
-						<p>
-							During my university years, I developed a deep passion for web programming, and I
-							consistently engaged in learning new concepts and techniques in this field.
-						</p>
-						<p>So, officially, my programming journey began in 2022 as a Frontend developer.</p>
 						<p className="my-3.5">
-							I enjoy learning technologies that interest me, which is why I dedicated a significant
-							amount of time to working with WordPress.
-						</p>
+    In 2022, I dedicated myself to exploring technologies that sparked my interest, focusing on building a strong foundation in HTML, CSS, and JavaScript. This period marked the beginning of my journey into web development, where I invested significant time in mastering these core technologies and understanding the fundamentals of creating responsive and dynamic user interfaces.
+</p>
+
+						
+						
 						<p>
 							One day, I decided to try something new, and I started learning React. I was so
 							excited to see how fast I can build a website with it, and how easy it is to maintain
 							it. Consequently, I quickly learnt Next.js and I used it to build some company
 							projects working in a team with a backend dev.
 						</p>
-						<p className="my-3.5">
-							In April 2024, I had an opportunity to start working as a Full Stack Developer for a
-							company with the possibility of transitioning to mobile development. I was skeptical
-							about it at first, but I decided to give it a try, and I don&lsquo;t regret it. Now, I
-							thoroughly enjoy Learning with Flutter and Dart.
+						<p >
+						During my professional career, I have developed a strong passion for web development, consistently learning new technologies like React and Node.js. My technical stack also includes MongoDB, Express.js, and Bootstrap, among others.
 						</p>
+						<p>
+						I am a seasoned Full Stack Developer Intern with expertise in both front-end and back-end technologies. My programming journey officially began in 2023, and I have since dedicated myself to building high-quality, scalable web applications.
+						</p>
+						
+						<p className="my-3.5">
+						I have worked on multiple live projects, such as e-commerce websites and real estate applications, showcasing my skills in creating responsive UIs, integrating RESTful APIs, and managing databases.
+						</p>
+						<p>
+						
+						</p>
+					<p className="my-3.5">
+    In April 2024, I embarked on an exciting journey as a Full Stack Developer, transitioning into a role where I could fully immerse myself in the MERN stack. Although I was initially uncertain about this shift, it turned out to be one of the most rewarding decisions of my career. I now thoroughly enjoy leveraging the power of MongoDB, Express, React, and Node.js to build robust, scalable applications, and I continue to grow my expertise in creating innovative web solutions.
+</p>
+
+
 					</div>
 				</div>
 

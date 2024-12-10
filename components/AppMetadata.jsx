@@ -1,6 +1,6 @@
 const author = "Krishna";
 const description =
-	"Software developer from Moldova, Republic of, who loves to develop beautiful websites, single page applications, customer relationship management or code from scratch using React and Next.js";
+	"Software developer from Delhi, Republic of, who loves to develop beautiful websites, single page applications, customer relationship management or code from scratch using React and Next.js";
 const url = "https://krishnasinghbhainsora.netlify.app";
 export const AppMetadata = {
 	metadataBase: new URL("https://krishnasinghbhainsora.netlify.app"),
@@ -13,8 +13,9 @@ export const AppMetadata = {
 		icon: "/favicon.png"
 	},
 	keywords: [
+		"Full Stack Developer",
 		"Frontend developer",
-		"Flutter developer",
+		"React Native developer",
 		"Portfolio website",
 		"Frontend Developer Portfolio"
 	],
